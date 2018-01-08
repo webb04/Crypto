@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 105">
+  <defs>
+    <style>.cls-1{fill:#FAFAFA;}.cls-2{fill:#FAFAFA;}.cls-3{fill:#FAFAFA;}.cls-4{fill:#FAFAFA;}.cls-5{fill:#FAFAFA;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1" fillRule="nonzero">
+      <path class="cls-3" d="M73.54,60.15,86.94,73.54l13.7-13.7a11.16,11.16,0,0,0,0-15.78l-5.5-5.5Z"/>
+      <polygon class="cls-3" points="65.34 51.95 65.34 51.95 51.95 38.56 73.54 16.97 73.54 16.97 51.95 38.56 65.34 51.95"/>
+      <polygon class="cls-4" points="51.95 38.56 65.34 51.95 73.54 60.15 95.13 38.56 86.94 30.36 73.54 16.97 51.95 38.56"/>
+      <path class="cls-5" d="M73.54,17,59.84,3.27a11.16,11.16,0,0,0-15.78,0L30.36,17,52,38.56Z"/>
+      <path class="cls-2" d="M17,30.36,3.27,44.06a11.16,11.16,0,0,0,0,15.78L17,73.54,38.56,52,52,38.56,30.36,17Z"/>
+      <path class="cls-1" d="M38.56,52,17,73.54l27.09,27.09a11.16,11.16,0,0,0,15.78,0L86.94,73.54,65.35,52,52,38.56Z"/>
+    </g>
+  </g>
+</svg>

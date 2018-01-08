@@ -1,0 +1,25 @@
+.stat p {
+  margin: 3px 0;
+  font-size: 14px;
+}
+
+.stat:nth-of-type(4) {
+  border-right: none;
+}
+
+.stat {
+  width: 25%;
+  float: left;
+  display: inline-block;
+  font-size: 32px;
+  border-right: solid 1px #6b94b233;
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .stat {
+    border-right: none;
+    margin: 25px 0px;
+    width: 100%;
+  }
+}
